@@ -8,4 +8,4 @@ Here contains a representation of Waverly Hills Sanatorium in Lousiville Kentuck
 [Link of Waverly Hills Layout](WaverlyLayout.pdf)
 
 ![Screenshot of animation](waverlyhillsscreenshot.png)     
-*[GEO 409: Waverly Hills Sanatorium LiDAR Point Cloud Animated Video](https://www.youtube.com/watch?v=nFV8ftGN0aM)*
+*[GEO 409: Waverly Hills Sanatorium LiDAR Point Cloud Animated Video](https://www.youtube.com/watch?v=YlAzqRg1vPY)*
